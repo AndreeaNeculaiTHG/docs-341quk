@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-igwokg.pulaucuan.online/sitemap.xml
